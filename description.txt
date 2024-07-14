@@ -1,0 +1,13 @@
+Proyecto Web de Ejemplo
+
+Este proyecto web consiste en una mini aplicación con dos páginas HTML interconectadas. Utiliza las siguientes herramientas y técnicas:
+
+- HTML5 para la estructura del contenido.
+- CSS3 para la presentación y diseño visual.
+- Google Fonts para la tipografía.
+- Imágenes para contenido multimedia.
+- Enlaces internos y externos para la navegación.
+
+El proyecto incluye un formulario simple diseñado para practicar la creación de formularios web. Se utilizaron técnicas de maquetado como Flexbox para el diseño de la página.
+
+¡Disfruta tu práctica! 😎
